@@ -77,3 +77,25 @@ Output
 -
 
 ![image](https://github.com/user-attachments/assets/5229b1de-27a5-4cf4-83ef-57700ce42c69)
+
+
+Prevention and Countermeasures
+-
+
+
+Countermeasures include:
+
+-	Masking Techniques
+
+-	Shielding Sensitive Components
+
+-	Using Constant-Time Algorithms
+
+By implementing these strategies, systems can become more resistant to side-channel attacks.
+
+Conclusion
+-
+
+
+Side-channel attacks are a significant threat to modern cryptographic systems. However, with proper countermeasures, the impact of these attacks can be minimized.
+
